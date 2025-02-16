@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm a Junior Front-End Developer passionate about building responsive and user-friendly web site and applications.  <br>I enjoy working with modern technologies, improving my skills, and turning ideas into interactive experiences. 
+Hi! I'm a Junior Front-End Developer passionate about building responsive and user-friendly web sites and applications.  <br>I enjoy working with modern technologies, improving my skills, and turning ideas into interactive experiences. 
 
 
 # 💻 Tech Stack:
