@@ -1,5 +1,11 @@
 # 💫 About Me:
-Hi! I'm a Junior Front-End Developer passionate about building responsive and user-friendly web sites and applications.  <br>I enjoy working with modern technologies, improving my skills, and turning ideas into interactive experiences. 
+Hi there 👋
+
+I’m a Front-End Developer specializing in JavaScript, TypeScript, and React. I enjoy building interactive, user-friendly web applications and working with HTML, CSS, SCSS, Gulp, and Vite.
+
+My strengths are problem-solving, clean code, and creating efficient, maintainable solutions. I’m interested in opportunities as a Front-End Developer or similar roles where I can grow and make an impact.
+
+📩 Feel free to reach me here or at fe.hetsko.illia@gmail.com.
 
 
 # 💻 Tech Stack:
